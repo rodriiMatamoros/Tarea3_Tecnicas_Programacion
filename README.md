@@ -28,10 +28,10 @@ t ≥ 30
 
 Demasiado calor
 
-3. El nombre del mes
+# 3. El nombre del mes
 Escriba el nombre del mes completo en función de su número (introducido por el usuario).
 
-4. El tiempo de cocción
+# 4. El tiempo de cocción
 Sabiendo que:
 
 Para cocinar 500 gramos de carne de vacuno, se necesita:
@@ -54,7 +54,7 @@ El tiempo de cocción es proporcional al peso.
 
 Dependiendo de la información introducida por el usuario (tipo de carne, modo de cocción y peso), mostrar el tiempo de cocción de una carne en segundos.
 
-5. La nómina
+# 5. La nómina
 Mostrar la nómina simplificada de un empleado a partir de la información introducida. El salario bruto depende de la cantidad de horas trabajadas y su tarifa por hora:
 
 Las horas inferiores a 169 horas se pagan aplicando su tarifa horaria.
