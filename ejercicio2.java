@@ -1,23 +1,13 @@
 /*Modificar el algoritmo anterior para mostrar un mensaje según la temperatura:
-
 Temperatura
-
 Mensaje
-
 t < 2
-
 Riesgo de hielo
-
 2 ≤ t < 15
-
 Hace frío
-
 15 ≤ t < 30
-
 Buena temperatura
-
 t ≥ 30
-
 Demasiado calor*/
 
 import java.util.Scanner;
